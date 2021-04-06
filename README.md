@@ -1,2 +1,3 @@
 # Amands-IBM-Data-Science-Repository
-REpository to use with IBM's Data Sciecne Certification course
+Repository to use with IBM's Data Sciecne Certification course
+I'm just entering some sample text here
